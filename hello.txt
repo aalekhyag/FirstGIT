@@ -1,2 +1,2 @@
 This is text file
-File is modified in branch
+Files are modified in branch
